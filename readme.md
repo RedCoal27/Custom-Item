@@ -1,6 +1,6 @@
 This ressource pack is a test to create custom item in 3D
 
- using only custom model data in the last snapshot 24w54a.
+ using only custom model data in the last snapshot 24w45a.
 
 
 You can open a gui by starting "Custom Item/assets/custom_item/python/gui.py" to create your model.
